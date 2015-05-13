@@ -2,33 +2,33 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- BUILD TWEAKS -->
-    <string name="header_category_chroma">Personalization</string>
+    <string name="header_category_chroma">Personalização</string>
     <string name="chroma_settings_title">Chroma</string>
 
     <!-- About phone screen, build date of ROM -->
-    <string name="build_date">Chroma build date</string>
+    <string name="build_date">Data da construção da Chroma</string>
     <string name="build_date_default">2015-01-01-0000</string>
 
     <!-- Chroma Menu -->
-    <string name="chroma_menu_personalizaton">Chroma options</string>
-    <string name="chroma_menu_about">About Chroma</string>
-    <string name="status_bar_screen_title">Status bar</string>
-    <string name="navigation_bar_screen_title">Navigation bar</string>
+    <string name="chroma_menu_personalizaton">Opções da Chroma</string>
+    <string name="chroma_menu_about">Acerca da Chroma</string>
+    <string name="status_bar_screen_title">Barra de estado</string>
+    <string name="navigation_bar_screen_title">Barra de navegação</string>
     <string name="power_menu_title">Power menu</string>
     <string name="volume_rocker_screen_title">Volume rocker</string>
     <!-- Battery and clock category -->
-    <string name="display_category_batteryclock_options_title">Battery and clock options</string>
+    <string name="display_category_batteryclock_options_title">Opções do relógio e da bateria</string>
     <!-- Navigation bar category -->
-    <string name="display_category_navbar_options_title">Navigation bar options</string>
-    <string name="display_category_navring_options_title">Navigation ring options</string>
+    <string name="display_category_navbar_options_title">Opções da barra de navegação</string>
+    <string name="display_category_navring_options_title">Opções do anel de navegação</string>
     <!-- Status bar category -->
-    <string name="display_category_statusbar_options_title">Status bar options</string>
+    <string name="display_category_statusbar_options_title">Opções da barra de estado</string></string>
     <!-- Recent apps category -->
-    <string name="display_category_recents_options_title">Recent apps options</string>
+    <string name="display_category_recents_options_title">Opções das aplicações recentes</string>
     <!-- Power menu category -->
-    <string name="display_category_power_options_title">Power menu options</string>
+    <string name="display_category_power_options_title">Opções do Power menu</string>
     <!-- QS Tiles -->
-    <string name="qs_category_title">Quick settings</string>
+    <string name="qs_category_title">Definições rápidas</string>
 
     <!-- BitSyko Layers -->
     <string name="bitsyko_layers">Layers</string>
@@ -37,82 +37,82 @@
     <string name="supersu_title">SuperSU</string>
 
     <!-- Display : Rotation -->
-    <string name="display_rotation_title">Rotation</string>
-    <string name="display_rotation_disabled">Disabled</string>
-    <string name="display_rotation_unit">degrees</string>
-    <string name="display_rotation_category_title">Rotation modes</string>
-    <string name="display_rotation_0_title">0 degrees</string>
-    <string name="display_rotation_90_title">90 degrees</string>
-    <string name="display_rotation_180_title">180 degrees</string>
-    <string name="display_rotation_270_title">270 degrees</string>
+    <string name="display_rotation_title">Rotação</string>
+    <string name="display_rotation_disabled">Desactivado</string>
+    <string name="display_rotation_unit">graus</string>
+    <string name="display_rotation_category_title">Modos de rotação</string>
+    <string name="display_rotation_0_title">0 graus</string>
+    <string name="display_rotation_90_title">90 graus</string>
+    <string name="display_rotation_180_title">180 graus</string>
+    <string name="display_rotation_270_title">270 graus</string>
 
     <!-- Statusbar native battery percent -->
-    <string name="general_string">General</string>
-    <string name="status_bar_title">Status bar</string>
-    <string name="status_bar_native_battery_percentage_title">Battery percentage</string>
-    <string name="status_bar_native_battery_percentage_summary">Show hidden percentage</string>
+    <string name="general_string">Geral</string>
+    <string name="status_bar_title">Barra de estado</string>
+    <string name="status_bar_native_battery_percentage_title">Percentagem de bateria</string>
+    <string name="status_bar_native_battery_percentage_summary">Mostrar percentagem oculta</string>
 
     <!-- Developer options - kill app long press back -->
-    <string name="kill_app_longpress_back">Kill app back button</string>
-    <string name="kill_app_longpress_back_summary">Kill the foreground app by long-pressing the back key</string>
+    <string name="kill_app_longpress_back">Tecla voltar fecha aplicação</string>
+    <string name="kill_app_longpress_back_summary">Fechar a aplicação em fundo pressionando longamente o botão voltar</string>
 
     <!-- Generic strings -->
     <string name="ok_string">Ok</string>
-    <string name="default_string">Default</string>
-    <string name="enabled_string">Enabled</string>
-    <string name="disabled_string">Disabled</string>
-    <string name="general_string">General</string>
-    <string name="reset_string">Reset</string>
-    <string name="empty_string">Empty</string>
-    <string name="attention">Attention</string>
+    <string name="default_string">Padrão</string>
+    <string name="enabled_string">Habilitado</string>
+    <string name="disabled_string">Desabilitado</string>
+    <string name="general_string">Padrão</string>
+    <string name="reset_string">Redefinir</string>
+    <string name="empty_string">Vazio</string>
+    <string name="attention">Atenção</string>
 
     <!-- Color Picker -->
-    <string name="dialog_color_picker">Color Picker</string>
-    <string name="press_color_to_apply">Press on color below to apply</string>
+    <string name="dialog_color_picker">Escolhedor da cor</string>
+    <string name="press_color_to_apply">Pressionar na cor abaixo para aplicar</string>
     <string name="arrow_right">→</string>
     <string name="arrow_down">↓</string>
     <string name="hex">Hex:</string>
     <string name="hex_hint">#ff000000</string>
-    <string name="set">Set</string>
-    <string name="color_default">Default</string>
+    <string name="set">Selecionar</string>
+    <string name="color_default">Padrão</string>
 
     <!-- Status bar | Clock -->
-    <string name="status_bar_clock">Clock &amp; date</string>
-    <string name="status_bar_clock_title">Clock &amp; date style</string>
-    <string name="status_bar_clock_summary">Change various clock &amp; date options</string> 
-    <string name="clock_title_enable">Alignment</string>
-    <string name="clock_enabled">Enabled</string>
-    <string name="clock_disabled">Disabled</string>
-    <string name="status_bar_show_clock_title">Show clock &amp; date</string>
+    <string name="status_bar_clock">Relógio &amp; data</string>
+    <string name="status_bar_clock_title">Relógio &amp; estilo da data</string>
+    <string name="status_bar_clock_summary">Mudar vários relógios &amp; opções de data</string> 
+    <string name="clock_title_enable">Alinhamento</string>
+    <string name="clock_enabled">Habilitado</string>
+    <string name="clock_disabled">Desabilitado</string>
+    <string name="status_bar_show_clock_title">Mostrar relógio &amp; data</string>
     <string name="status_bar_am_pm_title">AM/PM</string>
-    <string name="status_bar_am_pm_info">24-hour clock is enabled</string>
-    <string name="enable_clock_weekday">Day of the week</string>
-    <string name="enable_clock_weekday_summary">Abbreviated day of the week before the time</string>
-    <string name="right_clock">Right clock</string>
-    <string name="center_clock">Center clock</string>
-    <string name="left_clock">Left clock</string>
-    <string name="dont_show">Don\'t show</string>
-    <string name="clock_date_display">Date</string>
-    <string name="clock_date_display_summary">Display custom date before the clock</string>
-    <string name="clock_date_style">Date style</string>
-    <string name="clock_date_format">Date format</string>
-    <string name="clock_date_string_edittext_title">Must be in DateFormat eg. MM/dd/yy</string>
-    <string name="clock_date_string_edittext_summary">Enter string</string>
-    <string name="am_pm_clock_normal">Normal font size</string>
-    <string name="am_pm_clock_small">Small font size</string>
-    <string name="am_pm_clock_none">Don\'t show</string>
-    <string name="clock_date_display_none">Don\'t show</string>
-    <string name="clock_date_display_small">Small font size</string>
-    <string name="clock_date_display_normal">Normal font size</string>
+    <string name="status_bar_am_pm_info">Relógio 24-horas está habilitado</string>
+    <string name="enable_clock_weekday">Dia da semana</string>
+    <string name="enable_clock_weekday_summary">Abreviatura do dia da semana antes das horas</string>
+    <string name="right_clock">Relógio à direita</string>
+    <string name="center_clock">Relógio ao centro</string>
+    <string name="left_clock">Relógio à esquerda</string>
+    <string name="dont_show">Não mostrar</string>
+    <string name="clock_date_display">Data</string>
+    <string name="clock_date_display_summary">Mostrar data personalizada antes do relógio</string>
+    <string name="clock_date_style">Estilo da data</string>
+    <string name="clock_date_format">Formato da data</string>
+    <string name="clock_date_string_edittext_title">A data deve estar no formato eg. MM/dd/yy</string>
+    <string name="clock_date_string_edittext_summary">Entrada de linha</string>
+    <string name="am_pm_clock_normal">Tamanho de fonte normal</string>
+    <string name="am_pm_clock_small">Tamanho de fonte pequeno</string>
+    <string name="am_pm_clock_none">Não mostrar</string>
+    <string name="clock_date_display_none">Não mostrar</string>
+    <string name="clock_date_display_small">Tamanho de fonte pequeno</string>
+    <string name="clock_date_display_normal">Tamanho de fonte normal</string>
     <string name="clock_date_style_normal">Normal</string>
-    <string name="clock_date_style_lowercase">Lowercase</string>
-    <string name="clock_date_style_uppercase">Uppercase</string>
-    <string name="clock_date_format_custom">Custom java format</string>
+    <string name="clock_date_style_lowercase">Minúsculas</string>
+    <string name="clock_date_style_uppercase">Maiúsculas</string>
+    <string name="clock_date_format_custom">Formato Java personalizado</string>
     
     <!-- Wakeup options -->
-    <string name="display_category_wakeup_options_title">Wakeup options</string>
-    <string name="wakeup_when_plugged_unplugged_title">Wake up on charge</string>
-    <string name="wakeup_when_plugged_unplugged_summary">Wake up device if charger is plugged/unplugged.</string>
+    <string name="display_category_wakeup_options_title">Opções de acordar</string>
+    <string name="wakeup_when_plugged_unplugged_title">Acordar em carga</string>
+    <string name="wakeup_when_plugged_unplugged_summary">Acordar dispositivo se o carregador estiver ligado/desligado.</string>
 
     <!-- Status bar - Battery -->
     <string name="status_bar_battery_title">Battery icons</string>
